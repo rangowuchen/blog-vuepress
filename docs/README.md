@@ -1,11 +1,3 @@
-<!--
- * @Author: wuchen
- * @Date: 2020-01-16 15:54:24
- * @LastEditors: wuchen
- * @LastEditTime: 2020-01-16 15:57:51
- * @Description: 
- * @Email: rangowu@163.com
- -->
 ---
 home: true
 heroImage: /favicon.ico
